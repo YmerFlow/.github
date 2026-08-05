@@ -1,16 +1,14 @@
 # Ymerflow — Cloud-Native Geophysics
 
-<img src="https://raw.githubusercontent.com/YmerFlow/Ymerflow/master/frontend/public/Nagelfluh.jpg" height="200" align="right" />
-
 Browser-based AEM and magnetic survey processing, inversion, and pipeline automation — no Windows install, no per-seat licenses, no black-box algorithms.
 
 Ymerflow replaces desktop-bound geophysics tools with a reproducible, versioned workflow platform that runs in any browser. Processing pipelines are defined as visual DAGs, executed in Kubernetes containers, and stored in per-project cloud storage so results are always reproducible. The inversion core is [SimPEG](https://simpeg.xyz/) (GPL v3) — peer-reviewed, auditable, and extensible.
 
 | Process graph view | Process editor |
 |---|---|
-| ![Flow view showing process graph and 3D resistivity curtain](https://raw.githubusercontent.com/YmerFlow/Ymerflow/master/screenshots/ymerflow_ui_screenshot%20(1).png) | ![Process editor with 3D resistivity curtain]([screenshots](https://raw.githubusercontent.com/YmerFlow/Ymerflow/master/screenshots)/ymerflow_ui_screenshot.png) |
+| ![Flow view showing process graph and 3D resistivity curtain](https://raw.githubusercontent.com/YmerFlow/Ymerflow/master/screenshots/ymerflow_ui_screenshot%20(1).png) | ![Process editor with 3D resistivity curtain](https://raw.githubusercontent.com/YmerFlow/Ymerflow/master/screenshots/ymerflow_ui_screenshot.png) |
 
-![AEM inversion comparison — AGF reference (top) vs. Ymerflow result (bottom)]([screenshots](https://raw.githubusercontent.com/YmerFlow/Ymerflow/master/screenshots)/AGF-vs-our-inversion-3.png)
+![AEM inversion comparison — AGF reference (top) vs. Ymerflow result (bottom)](https://raw.githubusercontent.com/YmerFlow/Ymerflow/master/screenshots/AGF-vs-our-inversion-3.png)
 
 ## Features
 
