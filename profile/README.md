@@ -8,7 +8,7 @@ Ymerflow replaces desktop-bound geophysics tools with a reproducible, versioned 
 |---|---|
 | ![Flow view showing process graph and 3D resistivity curtain](https://raw.githubusercontent.com/YmerFlow/Ymerflow/master/screenshots/ymerflow_ui_screenshot%20(1).png) | ![Process editor with 3D resistivity curtain](https://raw.githubusercontent.com/YmerFlow/Ymerflow/master/screenshots/ymerflow_ui_screenshot.png) |
 
-![AEM inversion comparison — AGF reference (top) vs. Ymerflow result (bottom)](https://raw.githubusercontent.com/YmerFlow/Ymerflow/master/screenshots/AGF-vs-our-inversion-3.png)
+![AEM inversion comparison — AGF reference (top) vs. Ymerflow result (bottom)](https://raw.githubusercontent.com/YmerFlow/Ymerflow/blob/master/screenshots/published-vs-ymerflow-inversion.png)
 
 ## Features
 
