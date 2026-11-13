@@ -43,4 +43,4 @@ Ymerflow replaces desktop-bound geophysics tools with a reproducible, versioned 
 
 ## Source code
 
-The [main repo](https://github.com/YmerFlow/Ymerflow) contains the orchestration to install the system on your machine. However, each component, such as our [SimPEG fork](https://github.com/Ymerflow/simpeg), the [AEM processing pipeline](https://github.com/YmerFlow/ymerflow-processing) and the [Gladly plotting framework](https://github.com/YmerFlow/gladly) etc, is available from a separate repo.
+The [main repo](https://github.com/YmerFlow/Ymerflow) contains the orchestration to install the system on your machine. However, each component, such as our [SimPEG fork](https://github.com/Ymerflow/simpeg), the [AEM processing pipeline](https://github.com/YmerFlow/ymerflow-processing) and the [Gladly plotting framework](https://github.com/YmerFlow/gladly) etc, is available from its own separate repo.
