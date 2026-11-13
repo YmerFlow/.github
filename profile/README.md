@@ -12,8 +12,6 @@ Ymerflow replaces desktop-bound geophysics tools with a reproducible, versioned 
 
 ## Features
 
-<div class="feature-grid" markdown="1">
-
 <div class="feature-card" markdown="1">
 
 ### Visual Pipeline Editor
@@ -43,4 +41,6 @@ Ymerflow replaces desktop-bound geophysics tools with a reproducible, versioned 
 
 </div>
 
-<div class="feature-card" markdown="1">
+## Source code
+
+The [main repo](https://github.com/YmerFlow/Ymerflow) contains the orchestration to install the system on your machine. However, each component, such as our [SimPEG fork](https://github.com/Ymerflow/simpeg), the [AEM processing pipeline](https://github.com/YmerFlow/ymerflow-processing) and the [Gladly plotting framework](https://github.com/YmerFlow/gladly) etc, is available from a separate repo.
